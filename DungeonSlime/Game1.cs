@@ -15,7 +15,7 @@ public class Game1 : Core
     // Defines the bat animated sprite.
     private AnimatedSprite _bat;
 
-    public Game1() : base("Dungeon Slime", 400, 400, false)
+    public Game1() : base("Dungeon Slime", 1280, 720, false)
     {
     }
 
