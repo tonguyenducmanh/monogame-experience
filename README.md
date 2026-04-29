@@ -4,4 +4,4 @@ theo hướng dẫn từ link dưới đây
 
 https://docs.monogame.net/articles/tutorials/building_2d_games
 
-![alt text](imgs/logo.png)
+![alt text](imgs/demo.png)
