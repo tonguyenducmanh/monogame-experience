@@ -37,12 +37,6 @@ public class TitleScene : Scene
     // The origin to set for the slime text.
     private Vector2 _slimeTextOrigin;
 
-    // The position to draw the press enter text at.
-    private Vector2 _pressEnterPos;
-
-    // The origin to set for the press enter text when drawing it.
-    private Vector2 _pressEnterOrigin;
-
     // The texture used for the background pattern.
     private Texture2D _backgroundPattern;
 
